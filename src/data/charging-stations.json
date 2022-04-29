@@ -1,0 +1,28 @@
+{
+  "chargingStations": [
+    {
+      "latLng" : {
+        "lat": 51.4521043,
+        "lng": -0.9778538
+      },
+      "chargers" : 6,
+      "ocupationLevel" : 4
+    },
+    {
+      "latLng" : {
+        "lat": 51.458367,
+        "lng": -0.973669
+      },
+      "chargers" : 18,
+      "ocupationLevel" : 18
+    },
+    {
+      "latLng" : {
+        "lat": 51.4530722,
+        "lng": -0.9877452
+      },
+      "chargers" : 6,
+      "ocupationLevel" : 0
+    }
+  ]
+}

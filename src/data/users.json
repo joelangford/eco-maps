@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username" : "joe",
+      "password" : "test",
+      "firstname" : "Joe",
+      "surname" : "Langford",
+      "avatarUrl" : "https://joelangford.com/img/portrait.png",
+      "jobTitle": "Web Developer"
+    },
+    {
+      "username" : "homer",
+      "password" : "test",
+      "firstname" : "Homer",
+      "surname" : "Simpson",
+      "avatarUrl" : "https://www.pngkey.com/png/detail/224-2240291_homer-simpson-face-render-png-by-8scorpion-d6mtcmo.png",
+      "jobTitle": "Nuclear safety inspector"
+    },
+    {
+      "username" : "mac",
+      "password" : "test",
+      "firstname" : "Mac",
+      "surname" : "McDonald",
+      "avatarUrl" : "http://images3.wikia.nocookie.net/__cb20110812033803/itsalwayssunny/images/0/0d/Mac_(7).jpg",
+      "jobTitle": "Bodyguard"
+    }
+  ]
+}

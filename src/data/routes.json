@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "origin" : "Asda Tilehurst Superstore",
+      "destination" : "Reading West Station",
+      "method" : "BICYCLING"
+    },
+    {
+      "origin" : "The Hexagon, Reading",
+      "destination" : "Reading Station",
+      "method" : "BICYCLING"
+    },
+    {
+      "origin" : "The Oracle, Reading",
+      "destination" : "Thames Lido, Reading",
+      "method" : "BICYCLING"
+    }
+  ]
+}
