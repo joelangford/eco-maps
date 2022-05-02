@@ -1,0 +1,30 @@
+.charger-popup__title {
+  font-size: 18px;
+  margin-bottom: .5em;
+}
+
+.charger-popup__status {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  padding: 5px 10px;
+  width: auto;
+}
+
+.charger-popup__status--not-busy {
+  background-color: green;
+  color: white;
+}
+
+.charger-popup__status--busy {
+  background-color: orange;
+  color: black;
+}
+
+.charger-popup__status--full {
+  background-color: red;
+  color: white;
+}

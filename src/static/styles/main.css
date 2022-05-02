@@ -13,11 +13,8 @@
 @import './components/brand.css';
 @import './components/map-page.css';
 @import './components/page.css';
-/* @import './components/page-summary.css';
-@import './components/page-content.css'; */
-/* @import './components/items-container.css';
-@import './components/item.css'; */
 
 @import './components/bg-video.css';
 @import './components/login.css';
 @import './components/user-profile.css';
+@import './components/charger-popup.css';

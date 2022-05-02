@@ -31,3 +31,8 @@
   display: block;
   margin-top: 0.5em;
 }
+
+.login-form__error {
+  color: darkred;
+  margin-top: 0.5em;
+}
