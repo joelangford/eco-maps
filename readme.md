@@ -12,7 +12,7 @@ https://ecomaps.joelangford.com/
 
 ## local setup
 
-Clone the repo.
+Clone the repo and navigate into the project locally using your shell.
 
 ```npm install```
 
