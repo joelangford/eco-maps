@@ -2,7 +2,7 @@
 A little map site with a simple login and dashboard. Showing some bikes moving around routes and charging stations in Reading.
 
 ## live demo
-http://ecomaps.joelangford.com/
+https://ecomaps.joelangford.com/
 
 ## Demo users
 
@@ -16,7 +16,7 @@ Clone the repo.
 
 ```npm install```
 
-``touch .env```
+```touch .env```
 
 popuplate .env with your google maps API key, will need to not be restricted for local use and include the 'directions' service.
 
@@ -36,3 +36,4 @@ Then visit this url in your web browser:
 * Better routing
 * css pre processor to better organise styles (e.g. sass)
 * Proper logout
+* optimise assets e.g. lazyload video
